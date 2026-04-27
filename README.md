@@ -1,6 +1,6 @@
 # Wipe for Reddit
 
-<img width="1536" height="1024" alt="og-image" src="https://github.com/user-attachments/assets/21a9c439-18d5-4016-943f-72311dc1d50e" />
+<img width="1200" height="630" alt="og-image" src="https://github.com/user-attachments/assets/21a9c439-18d5-4016-943f-72311dc1d50e" />
 
 **View, search, and delete your Reddit posts and comments.**
 
