@@ -1,10 +1,10 @@
 # Wipe for Reddit
 
-<img height="630" alt="og-image" src="https://github.com/user-attachments/assets/21a9c439-18d5-4016-943f-72311dc1d50e" />
-
 **View, search, and delete your Reddit posts and comments.**
 
 Take control of your Reddit history. Browse, filter, and permanently delete your posts and comments. Runs entirely on your computer - no servers, no cloud, no data collection.
+
+<img height="630" alt="og-image" src="https://github.com/user-attachments/assets/21a9c439-18d5-4016-943f-72311dc1d50e" />
 
 → **[Download Latest Release](https://github.com/archisvaze/wipe-for-reddit/releases/latest)** · [Report a Bug](https://github.com/archisvaze/wipe-for-reddit/issues)
 
@@ -109,14 +109,14 @@ No installation needed. The AppImage runs directly and can be moved anywhere.
 
 ## Free vs Pro
 
-|                     | Free           | Pro              |
-| ------------------- | -------------- | ---------------- |
-| View all content    | ✓              | ✓                |
-| Search & filter     | ✓              | ✓                |
-| Karma insights      | ✓              | ✓                |
-| Delete              | 10/day         | Unlimited        |
-| Bulk delete         | -              | ✓                |
-| Export to JSON      | -              | ✓                |
+|                  | Free   | Pro       |
+| ---------------- | ------ | --------- |
+| View all content | ✓      | ✓         |
+| Search & filter  | ✓      | ✓         |
+| Karma insights   | ✓      | ✓         |
+| Delete           | 10/day | Unlimited |
+| Bulk delete      | -      | ✓         |
+| Export to JSON   | -      | ✓         |
 
 ---
 
